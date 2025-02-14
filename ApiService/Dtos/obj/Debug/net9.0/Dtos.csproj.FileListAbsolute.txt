@@ -1,0 +1,11 @@
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\bin\Debug\net9.0\Dtos.deps.json
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\bin\Debug\net9.0\Dtos.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\bin\Debug\net9.0\Dtos.pdb
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.AssemblyInfoInputs.cache
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.AssemblyInfo.cs
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.csproj.CoreCompileInputs.cache
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\refint\Dtos.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\Dtos.pdb
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Dtos\obj\Debug\net9.0\ref\Dtos.dll

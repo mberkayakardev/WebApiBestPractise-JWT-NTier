@@ -1,0 +1,15 @@
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\bin\Debug\net9.0\Entities.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\bin\Debug\net9.0\Core.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\bin\Debug\net9.0\Core.pdb
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Github\WebApiBestPractise-JWT-Ntier\ApiService\Entities\obj\Debug\net9.0\ref\Entities.dll
